@@ -24,7 +24,7 @@
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
-  speak: none;
+  speak-as: none;
   display: inline-block;
   text-decoration: inherit;
   width: 1em;
@@ -249,6 +249,7 @@ html, body {
 }
 
 .job-title {
+    font-size: 20px;
     margin-bottom: 30px;
     line-height: 1;
 } 

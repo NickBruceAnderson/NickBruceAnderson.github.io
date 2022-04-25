@@ -57,7 +57,7 @@
 	/* HERO
 	================================================== */
 	.hero h1 {
-		font-size: 38px
+		font-size: 32px
 	}
 
 	.job-title {
@@ -298,12 +298,12 @@
 	}
 
 	.hero h1 {
-		font-size: 32px
+		font-size: 32px;
 		margin-bottom: 10px;
 	}
 
 	.job-title {
-		font-size: 18px;
+		font-size: 20px;
 		margin-bottom: 20px;
 	}
 
